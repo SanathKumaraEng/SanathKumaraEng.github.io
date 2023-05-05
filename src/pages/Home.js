@@ -12,7 +12,7 @@ function Home() {
         <h2> Hi, I'm Sanath Kumara</h2>
         <div className="prompt">
           <p>A mechanical engineer and a software developer with a passion for learning and creating.</p>
-          <LinkedInIcon onClick={() => window.location.href='https://www.google.com'} />
+          <LinkedInIcon onClick={() => window.location.href='https://www.linkedin.com/in/sanath-kumara-thilakarathna/'} />
           <EmailIcon />
           <GithubIcon />
         </div>
