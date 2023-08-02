@@ -45,6 +45,7 @@
   
   .skills h1 {
     color: #3e497a;
+    
   }
   
   .skills .list {
@@ -55,7 +56,8 @@
   .list span {
     font-size: 20px;
   }
-  
+
+
   @media only screen and (max-width: 600px) {
     .about h2 {
       font-size: 40px;

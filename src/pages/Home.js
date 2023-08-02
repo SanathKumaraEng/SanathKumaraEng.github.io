@@ -21,10 +21,21 @@ function Home() {
         <h1> Skills</h1>
         <ol className="list">
           <li className="item">
+            <h2>3D Design</h2>
+            <span>
+              SolidWorks, Onshape, Creo Elements
+            </span>
+          </li>
+          <li className="item">
+            <h2>Languages</h2>
+            <span>
+              JavaScript, Python, C#, C, C++
+            </span>
+          </li>
+          <li className="item">
             <h2> Front-End</h2>
             <span>
-              ReactJS, Angular, Redux, HTML, CSS, React Native, Flutter, NPM,
-              Ionic, BootStrap, MaterialUI, Yarn, TailwindCSS, StyledComponents
+              ReactJS, HTML, CSS
             </span>
           </li>
           <li className="item">
@@ -34,10 +45,7 @@ function Home() {
               MySQL, MongoDB, DynamoDB, DigitalOcean, AWS S3, MS SQL
             </span>
           </li>
-          <li className="item">
-            <h2>Languages</h2>
-            <span>JavaScript, Java, Python, C#, C, C++, TypeScript, Go</span>
-          </li>
+          
         </ol>
       </div>
     </div>
